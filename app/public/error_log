@@ -1,0 +1,35 @@
+[05-Jun-2026 08:36:32 UTC] PHP Warning:  require_once(/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php): Failed to open stream: No such file or directory in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
+[05-Jun-2026 08:36:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php:2
+Stack trace:
+#0 /home/kgmvinfpgeqh/public_html/projecto/app/app/controllers/PersonaController.php(2): require_once()
+#1 /home/kgmvinfpgeqh/public_html/projecto/app/public/index.php(2): require_once('/home/kgmvinfpg...')
+#2 {main}
+  thrown in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
+[05-Jun-2026 08:36:42 UTC] PHP Warning:  require_once(/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php): Failed to open stream: No such file or directory in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
+[05-Jun-2026 08:36:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php:2
+Stack trace:
+#0 /home/kgmvinfpgeqh/public_html/projecto/app/app/controllers/PersonaController.php(2): require_once()
+#1 /home/kgmvinfpgeqh/public_html/projecto/app/public/index.php(2): require_once('/home/kgmvinfpg...')
+#2 {main}
+  thrown in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
+[05-Jun-2026 08:36:46 UTC] PHP Warning:  require_once(/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php): Failed to open stream: No such file or directory in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
+[05-Jun-2026 08:36:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php:2
+Stack trace:
+#0 /home/kgmvinfpgeqh/public_html/projecto/app/app/controllers/PersonaController.php(2): require_once()
+#1 /home/kgmvinfpgeqh/public_html/projecto/app/public/index.php(2): require_once('/home/kgmvinfpg...')
+#2 {main}
+  thrown in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
+[05-Jun-2026 08:36:47 UTC] PHP Warning:  require_once(/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php): Failed to open stream: No such file or directory in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
+[05-Jun-2026 08:36:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php:2
+Stack trace:
+#0 /home/kgmvinfpgeqh/public_html/projecto/app/app/controllers/PersonaController.php(2): require_once()
+#1 /home/kgmvinfpgeqh/public_html/projecto/app/public/index.php(2): require_once('/home/kgmvinfpg...')
+#2 {main}
+  thrown in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
+[05-Jun-2026 08:36:47 UTC] PHP Warning:  require_once(/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php): Failed to open stream: No such file or directory in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
+[05-Jun-2026 08:36:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kgmvinfpgeqh/public_html/projecto/app/app/models/../config/Database.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php:2
+Stack trace:
+#0 /home/kgmvinfpgeqh/public_html/projecto/app/app/controllers/PersonaController.php(2): require_once()
+#1 /home/kgmvinfpgeqh/public_html/projecto/app/public/index.php(2): require_once('/home/kgmvinfpg...')
+#2 {main}
+  thrown in /home/kgmvinfpgeqh/public_html/projecto/app/app/models/Persona.php on line 2
